@@ -83,10 +83,10 @@
   <a href="https://instagram.com/ad.armand" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adearman" height="30" width="40" />
   </a>
-
-    <a href="https://t.me/r_ghalibie" target="blank">
+  <a href="https://t.me/r_ghalibie" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="adearman" height="30" width="40" />
   </a> 
+  
 </p>
 <br>
 <p align="left">
