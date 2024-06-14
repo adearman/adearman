@@ -27,10 +27,10 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" />
   </a>
     <a href="https://www.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt="visualstudio" width="40" height="40" />
+    <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt="visualstudio" height="40" />
   </a>
       <a href="https://www.autohotkey.com" target="_blank" rel="noreferrer">
-    <img src="https://autohotkey.com/static/ahk_logo_no_text.svg" alt="autohotkey" width="40" height="40" />
+    <img src="https://autohotkey.com/static/ahk_logo_no_text.svg" alt="autohotkey" height="40" />
   </a>
 </p>
 <br>
