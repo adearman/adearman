@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
